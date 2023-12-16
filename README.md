@@ -29,8 +29,8 @@ To get started with the To-Do List manager:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/BrandonBlkk/your-repo.git
-   cd your-repo
+   git clone https://github.com/BrandonBlkk/ToDoLists.git
+   cd ToDoLists
    ```
 
 2. **Run the Script:**
