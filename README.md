@@ -29,13 +29,13 @@ To get started with the To-Do List manager:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/BrandonBlkk/ToDoLists.git
-   cd ToDoLists
+   git clone https://github.com/BrandonBlkk/To-Do-Lists.git
+   cd To-Do-Lists
    ```
 
 2. **Run the Script:**
    ```bash
-   python todo_manager.py
+   python ToDoLists.py
    ```
 
 3. **Follow the On-Screen Menu:**
